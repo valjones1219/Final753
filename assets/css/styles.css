@@ -56,7 +56,7 @@ h4 {
   font-family: arial,sans-serif;
   color: #0F90B7;
   font-size: 27px;
-  text-shadow: 1px 1px 1px #462301;
+  text-shadow: 1.5px 1.5px 1.5px #462301;
   text-align: center;
   margin-top: 0em;
   margin-bottom: 0em;
@@ -70,10 +70,36 @@ h5 {
   font-family: arial,sans-serif;
   color: #0F90B7;
   text-shadow: 1px 1px 1px #462301;
-  font-size: 25px;
+  font-size: 20px;
   margin-top: 1em;
   margin-bottom: 0em;
   text-align: center;
+}
+
+h6 {
+  font-family: arial,sans-serif;
+  color: #0F90B7;
+  font-size: 27px;
+  text-shadow: 1.5px 1.5px 1.5px #462301;
+  text-align: center;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding-top: 20px;
+}
+
+nav{
+  color: #462301
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 
